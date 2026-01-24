@@ -83,11 +83,11 @@ skills:
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#14213D"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
+  border: "#fca311"
+  link: "#427aa1"
+  highlight: "#427aa1"
   background: "#98A886"
-  light_background: "#f3f5fb"
+  light_background: "#869871"
 
   # Palette: {"Black":"000000","Rich Cerulean":"427aa1","Muted Teal":"98a886","Prussian Blue":"14213d","Orange":"fca311"}
 
