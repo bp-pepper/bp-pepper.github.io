@@ -13,11 +13,9 @@ title: Brent Pepper's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Brent Pepper
-headline: headline message
+headline: Software Engineer | Aspiring Quantum Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Aspiring Quantum Hardware Engineer with a strong foundation in scientific programming and data analysis. I combine technical precision with a passion for developing creative solutions for real-world problems and control systems that enable cutting-edge quantum research. Experienced in software automation and analytical problem-solving, with a growing interest in quantum computing and superconducting device characterization. Driven by a commitment to rigorous experimental methodology and deep root cause analysis of complex technical challenges.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/zion_pic.jpg
