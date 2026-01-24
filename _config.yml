@@ -84,9 +84,9 @@ skills:
 colors: # this is the basic theme
   text: "#14213D"
   border: "#fca311"
-  link: "#427aa1"
-  highlight: "#427aa1"
-  background: "#98A886"
+  link: "#3B6D91"
+  highlight: "#3B6D91"
+  background: "#AEBAA0"
   light_background: "#869871"
 
   # Palette: {"Black":"000000","Rich Cerulean":"427aa1","Muted Teal":"98a886","Prussian Blue":"14213d","Orange":"fca311"}
