@@ -6,5 +6,5 @@ skills:
 - time management
 - programming
 - troubleshooting
-main-image: /project.webp 
+main-image: /construction.jpg
 ---
